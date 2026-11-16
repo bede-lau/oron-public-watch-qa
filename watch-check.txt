@@ -1,1 +1,1 @@
-ORON PUBLIC WATCH QA 20261116. Synthetic fixture. Display status: amber baseline R7P4.
+ORON PUBLIC WATCH QA 20261116. Synthetic fixture. Display status: blue after one controlled change R7P4.
